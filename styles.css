@@ -1,0 +1,11 @@
+.task-item {
+    margin-bottom: 0.5rem;
+    border-radius: 0.5rem;
+}
+.task-item.done {
+    background-color: #e0ffe0;
+    text-decoration: line-through;
+}
+.task-item.overdue {
+    background-color: #ffe0e0;
+}
